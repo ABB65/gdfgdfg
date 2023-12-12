@@ -1,0 +1,9 @@
+[
+  {
+    "name": "products",
+    "modelId": "products",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
