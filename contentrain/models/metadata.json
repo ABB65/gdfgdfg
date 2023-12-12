@@ -2,7 +2,7 @@
   {
     "name": "products",
     "modelId": "products",
-    "localization": false,
+    "localization": true,
     "type": "JSON",
     "createdBy": "user"
   }
