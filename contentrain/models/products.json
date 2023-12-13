@@ -39,5 +39,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "dfasfadsfds",
+    "fieldId": "dfasfadsfds",
+    "modelId": "products",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
