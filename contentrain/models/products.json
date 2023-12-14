@@ -66,5 +66,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "fsdfdsf",
+    "fieldId": "fsdfdsf",
+    "modelId": "products",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
