@@ -75,5 +75,15 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "dsdas",
+    "description": "dasdsa",
+    "fieldId": "dsdas",
+    "modelId": "products",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
