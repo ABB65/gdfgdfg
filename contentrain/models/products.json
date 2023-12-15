@@ -32,15 +32,6 @@
     "fieldType": "string"
   },
   {
-    "name": "dasdasd",
-    "fieldId": "dasdasd",
-    "modelId": "products",
-    "componentId": "md-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "dfasfadsfds",
     "fieldId": "dfasfadsfds",
     "modelId": "products",
