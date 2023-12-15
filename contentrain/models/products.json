@@ -1,28 +1,5 @@
 [
   {
-    "name": "fsdfdsfdsf",
-    "fieldId": "fsdfdsfdsf",
-    "modelId": "products",
-    "componentId": "single-line-text",
-    "options": {
-      "title-field": {
-        "value": false
-      },
-      "default-value": {
-        "value": false
-      }
-    },
-    "validations": {
-      "required-field": {
-        "value": true
-      },
-      "unique-field": {
-        "value": false
-      }
-    },
-    "fieldType": "string"
-  },
-  {
     "name": "dfasfadsfds",
     "fieldId": "dfasfadsfds",
     "modelId": "products",
