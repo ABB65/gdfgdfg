@@ -30,5 +30,18 @@
       }
     },
     "fieldType": "array"
+  },
+  {
+    "name": "dasdasd",
+    "fieldId": "dasdasd",
+    "modelId": "products",
+    "componentId": "integer",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "array"
   }
 ]
