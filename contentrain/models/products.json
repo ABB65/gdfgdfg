@@ -41,15 +41,6 @@
     "fieldType": "number"
   },
   {
-    "name": "adfsfadsf",
-    "fieldId": "adfsfadsf",
-    "modelId": "products",
-    "componentId": "rich-text-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "array-text",
     "fieldId": "fsdfdsf",
     "modelId": "products",
