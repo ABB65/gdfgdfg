@@ -50,15 +50,6 @@
     "fieldType": "number"
   },
   {
-    "name": "adfsfsdf",
-    "fieldId": "adfsfsdf",
-    "modelId": "products",
-    "componentId": "integer",
-    "options": {},
-    "validations": {},
-    "fieldType": "number"
-  },
-  {
     "name": "adfsfadsf",
     "fieldId": "adfsfadsf",
     "modelId": "products",
