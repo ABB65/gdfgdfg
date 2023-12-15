@@ -43,5 +43,14 @@
       }
     },
     "fieldType": "array"
+  },
+  {
+    "name": "ayha",
+    "fieldId": "ayha",
+    "modelId": "products",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
