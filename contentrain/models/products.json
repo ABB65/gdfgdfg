@@ -68,12 +68,26 @@
     "fieldType": "string"
   },
   {
-    "name": "fsdfdsf",
+    "name": "array-text",
     "fieldId": "fsdfdsf",
     "modelId": "products",
-    "componentId": "email",
-    "options": {},
-    "validations": {},
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": false
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "array"
   },
   {
