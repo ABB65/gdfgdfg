@@ -52,5 +52,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "dasdasdfgwdsgadsfgdfsgdfsg",
+    "fieldId": "dasdasdfgwdsgadsfgdfsgdfsg",
+    "modelId": "products",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
