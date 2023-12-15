@@ -23,15 +23,6 @@
     "fieldType": "string"
   },
   {
-    "name": "fdsfdsf",
-    "fieldId": "fdsfdsf",
-    "modelId": "products",
-    "componentId": "multi-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "dfasfadsfds",
     "fieldId": "dfasfadsfds",
     "modelId": "products",
