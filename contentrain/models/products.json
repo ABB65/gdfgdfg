@@ -1,14 +1,5 @@
 [
   {
-    "name": "ayha",
-    "fieldId": "ayha",
-    "modelId": "products",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "media"
-  },
-  {
     "name": "dasdasdfgwdsgadsfgdfsgdfsg",
     "fieldId": "dasdasdfgwdsgadsfgdfsgdfsg",
     "modelId": "products",
