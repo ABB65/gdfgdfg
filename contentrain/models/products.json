@@ -1,14 +1,5 @@
 [
   {
-    "name": "dfasfadsfds",
-    "fieldId": "dfasfadsfds",
-    "modelId": "products",
-    "componentId": "integer",
-    "options": {},
-    "validations": {},
-    "fieldType": "number"
-  },
-  {
     "name": "array-text",
     "fieldId": "fsdfdsf",
     "modelId": "products",
