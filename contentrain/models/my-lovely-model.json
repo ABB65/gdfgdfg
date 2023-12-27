@@ -26,5 +26,14 @@
     "fieldType": "string",
     "system": true,
     "modelId": "my-lovely-model"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "my-lovely-model",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
