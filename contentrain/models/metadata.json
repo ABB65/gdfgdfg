@@ -5,5 +5,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "my Lovely model",
+    "modelId": "my-lovely-model",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
