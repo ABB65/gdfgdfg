@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "testy",
+    "fieldId": "testy",
+    "modelId": "jjjklllzzcxcvvkkk",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
