@@ -1,9 +1,1 @@
-[
-  {
-    "name": "products",
-    "modelId": "products",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user"
-  }
-]
+[]
