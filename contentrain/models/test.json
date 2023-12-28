@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "markdown",
+    "fieldId": "markdown",
+    "modelId": "test",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
