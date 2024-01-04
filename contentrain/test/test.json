@@ -1,9 +1,10 @@
 [
   {
     "ID": "cbb1025e0788",
-    "createdAt": "Thu Jan 04 2024 17:19:09 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Thu Jan 04 2024 17:19:09 GMT+0300 (GMT+03:00)",
+    "createdAt": "2024-01-04T14:19:09.000Z",
+    "updatedAt": "2024-01-04T14:46:21.165Z",
+    "status": "draft",
     "richtext": "<p>Benim adim <strong>ruzgarr</strong> <em><u> senin adin nedir </u></em></p><p></p><p><em>Belki de bu konuda sorun vardir ?</em></p><p></p><p></p><table><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><th colspan=\"2\" rowspan=\"1\"><p></p></th><th colspan=\"1\" rowspan=\"1\"><p></p></th></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>dasdas</p></td><td colspan=\"1\" rowspan=\"1\"><p>dasd</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>",
-    "status": "draft"
+    "dasdasdasd": "dasdasdasd"
   }
 ]
